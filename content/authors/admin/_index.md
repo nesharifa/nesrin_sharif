@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-To be added soon.
+- to be added soon - 
 {style="text-align: justify;"}
