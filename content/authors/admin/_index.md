@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nesrin Sharif
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nesrin
+last_name: Sharif
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computational Neuroscientist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University Medical Center Mainz, Germany 
+    url: https://www.unimedizin-mainz.de/neurologie/startseite/startseite.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Single-cell genomics
+  - Cortical development and disease
+  - Cellular reprogramming 
+  - Gene therapy
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Biology 
+      institution: Johannes Gutenberg-University, Mainz - Germany
+      year: 2024
+    - course: Master of Science in Computational Neuroscience (Biology)
+      institution: University of Freiburg - Germany 
+      year: 2017
+    - course: Bachelor of Science in Biology
+      institution: Ruhr University of Bochum - Germany
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
